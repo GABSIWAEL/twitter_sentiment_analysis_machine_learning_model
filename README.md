@@ -1,5 +1,7 @@
 # Twitter Sentiment Analysis Machine Learning Model
 
+![Twitter Sentiment Analysis App](pictures_for_README/model_web_test.png)
+
 This project trains and uses a machine learning model to classify tweets as positive or negative.
 
 ## Project Structure
