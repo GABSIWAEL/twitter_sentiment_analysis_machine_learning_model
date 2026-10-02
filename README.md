@@ -38,4 +38,4 @@ Then it predicts whether a tweet is positive or negative.
 
 ## Author
 
-Created for a Twitter sentiment analysis use case in a machine learning project.
+Created by GABSIWAEL for a Twitter sentiment analysis use case in a machine learning project.
